@@ -6,5 +6,5 @@
 ![image](https://github.com/liaoyunbin/-/blob/main/money1.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/unityFrame.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/needTostudy1.png)
-![image](https://github.com/liaoyunbin/-/blob/main/needTostudy2.png)
+![image](https://github.com/liaoyunbin/-/blob/main/needToStudy2.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/needTostudy3.png)
