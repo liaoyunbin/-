@@ -9,3 +9,6 @@
 ![image](https://github.com/liaoyunbin/-/blob/main/needToStudy2.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/needTostudy3.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/UIWindow.png)
+![image](https://github.com/liaoyunbin/-/blob/main/AbountThinking.png)
+![image](https://github.com/liaoyunbin/-/blob/main/NameRule.png)
+![image](https://github.com/liaoyunbin/-/blob/main/DesignModel.png)
