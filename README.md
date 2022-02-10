@@ -12,3 +12,4 @@
 ![image](https://github.com/liaoyunbin/-/blob/main/AbountThinking.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/NameRule.png)
 ![image](https://github.com/liaoyunbin/-/blob/main/DesignModel.png)
+![image](https://github.com/liaoyunbin/-/blob/main/AbnormalOperation.png)
